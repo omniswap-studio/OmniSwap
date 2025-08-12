@@ -18,7 +18,7 @@ The purpose of this project is to build something new out of what [VisoMaster](h
 - In addition to the above, create and maintain an open source all-in-one .EXE installer for Windows included as <ins>a new standard with every update for free.</ins>
 - Finalize the addition of several new Gradio themes that match the new local UI's selection of choices. 
 - Fully upgrade and resolve all possible dependencies, providing a modern framework for future community-driven development.
-- Properly license the distribution under MIT, as FaceFusion is currently ambiguously and improperly licensed. This is corrected by the original author's numerous public statements over the years regarding FaceFusion's *"free"* and *"open source"* nature. Additionally, an implied intention can clearly be established considering the use of MIT or OpenRAIL-AS labels across FaceFusion's repositories. Regardless, the author's original copyright notice will stay intact and clearly displayed, with or without any additional declarations. 
+- Properly license the distribution under MIT. Fun fact! [FaceFusion and HyperSwap are not properly licensed by the author](https://github.com/visomaster/VisoMaster/pull/103#issuecomment-3177791934) and can essentially be treated as fully open-source. Regardless, the author's original copyright notice will stay intact and clearly displayed if necessary, with or without any additional declarations. 
 
 # Current FaceFusion Backend Visualized
 
